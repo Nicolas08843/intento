@@ -16,15 +16,15 @@
 
 
 #inicio {
-  background-image: url('/img/gatocodigo.jpg'); /* Cambia 'parallax1.jpg' por la imagen que quieras usar */
+  background-image: url('img/gatocodigo.jpg'); /* Cambia 'parallax1.jpg' por la imagen que quieras usar */
 }
 
 #servicios {
-  background-image: url('/img/tattoo.jpg'); /* Cambia 'parallax2.jpg' por la imagen que quieras usar */
+  background-image: url('img/tattoo.jpg'); /* Cambia 'parallax2.jpg' por la imagen que quieras usar */
 }
 
 #contacto {
-  background-image: url('/img/gato.jpeg'); /* Cambia 'parallax3.jpg' por la imagen que quieras usar */
+  background-image: url('img/gato.jpeg'); /* Cambia 'parallax3.jpg' por la imagen que quieras usar */
 }
 .footer {
   background: rgb(13,13,13);
