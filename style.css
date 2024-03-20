@@ -1,0 +1,57 @@
+.parallax-section {
+  height: 100vh;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.container{
+  left: 50px;
+  
+}
+
+.bg-custom {
+  background-color: #166f7d; /* Cambia #3498db por el color que desees */
+}
+
+
+#inicio {
+  background-image: url('/img/gatocodigo.jpg'); /* Cambia 'parallax1.jpg' por la imagen que quieras usar */
+}
+
+#servicios {
+  background-image: url('/img/tattoo.jpg'); /* Cambia 'parallax2.jpg' por la imagen que quieras usar */
+}
+
+#contacto {
+  background-image: url('/img/gato.jpeg'); /* Cambia 'parallax3.jpg' por la imagen que quieras usar */
+}
+.footer {
+  background: rgb(13,13,13);
+  background: linear-gradient(0deg, rgba(13,13,13,1) 0%, rgba(0,0,0,1) 27%, rgba(22,111,125,1) 88%);/* Cambia #3498db por el color que desees */
+  color: #ffffff; /* Color de texto */
+  padding: 50px 0;
+  text-align: center;
+}
+
+.footer h3 {
+  color: #ffffff;
+}
+
+.footer ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.footer ul li {
+  margin-bottom: 10px;
+}
+
+.footer a {
+  color: #ffffff;
+}
+
+.footer a:hover {
+  color: #cccccc;
+}
+
